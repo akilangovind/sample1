@@ -1,0 +1,15 @@
+/Users/akilangovindasamy/Desktop/VScode/sample1/bin/Debug/net5.0/sample1.deps.json
+/Users/akilangovindasamy/Desktop/VScode/sample1/bin/Debug/net5.0/sample1.runtimeconfig.json
+/Users/akilangovindasamy/Desktop/VScode/sample1/bin/Debug/net5.0/sample1.runtimeconfig.dev.json
+/Users/akilangovindasamy/Desktop/VScode/sample1/bin/Debug/net5.0/sample1.dll
+/Users/akilangovindasamy/Desktop/VScode/sample1/bin/Debug/net5.0/ref/sample1.dll
+/Users/akilangovindasamy/Desktop/VScode/sample1/bin/Debug/net5.0/sample1.pdb
+/Users/akilangovindasamy/Desktop/VScode/sample1/obj/Debug/net5.0/sample1.csproj.AssemblyReference.cache
+/Users/akilangovindasamy/Desktop/VScode/sample1/obj/Debug/net5.0/sample1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akilangovindasamy/Desktop/VScode/sample1/obj/Debug/net5.0/sample1.AssemblyInfoInputs.cache
+/Users/akilangovindasamy/Desktop/VScode/sample1/obj/Debug/net5.0/sample1.AssemblyInfo.cs
+/Users/akilangovindasamy/Desktop/VScode/sample1/obj/Debug/net5.0/sample1.csproj.CoreCompileInputs.cache
+/Users/akilangovindasamy/Desktop/VScode/sample1/obj/Debug/net5.0/sample1.dll
+/Users/akilangovindasamy/Desktop/VScode/sample1/obj/Debug/net5.0/ref/sample1.dll
+/Users/akilangovindasamy/Desktop/VScode/sample1/obj/Debug/net5.0/sample1.pdb
+/Users/akilangovindasamy/Desktop/VScode/sample1/obj/Debug/net5.0/sample1.genruntimeconfig.cache
